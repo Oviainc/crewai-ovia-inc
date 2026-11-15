@@ -1,4 +1,40 @@
 <p align="center">
+<a href="https://github.com/Oviainc/crewai-ovia-inc">
+  <img src="docs/images/crewai_logo.png" width="600px" alt="Ovia Inc — CrewAI logo" />
+</a>a>
+</p>p>
+
+# CrewAI — Ovia Inc
+
+> **CrewAI** is the Ovia Inc fork of [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI), a framework for orchestrating role-playing, autonomous AI agents.
+
+## What this project is
+CrewAI is an open-source Python framework for building production-ready multi-agent workflows, with Crews for autonomous collaboration and Flows for precise, event-driven control.
+
+  ## Why this project sits in the OVIA collection
+
+  CrewAI sits at the centre of the OVIA collection for AI agents: multi-agent orchestration, with agents in distinct roles sharing context to complete complex tasks together.
+
+  ## Story
+
+  CrewAI was selected from the OVIA standing shortlist and approved on November 15, 2026, on the strength of its own material: a widely used, actively developed framework for orchestrating role-playing, autonomous AI agents, with Crews for collaborative intelligence and Flows for event-driven control.
+
+  ## OVIA modifications
+
+  Forked from [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) on November 15, 2026.
+
+  OVIA modifications are limited to this README section and repository metadata unless stated otherwise.
+
+  The code is unchanged from the fork point.
+
+  Credit remains with the upstream authors, and the licence is preserved: MIT License.
+
+  ---
+
+  <p align="center">
+  
+
+  
   <a href="https://github.com/crewAIInc/crewAI">
     <img src="docs/images/crewai_logo.png" width="600px" alt="Open source Multi-AI Agent orchestration framework">
   </a>
