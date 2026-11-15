@@ -1,8 +1,8 @@
 <p align="center">
 <a href="https://github.com/Oviainc/crewai-ovia-inc">
   <img src="docs/images/crewai_logo.png" width="600px" alt="Ovia Inc — CrewAI logo" />
-</a>a>
-</p>p>
+</a>
+</p>
 
 # CrewAI — Ovia Inc
 
